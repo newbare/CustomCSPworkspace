@@ -1,4 +1,4 @@
-Username:Vishwarup-Singh-Baghel
+Username:Vishwarup-Singh-Baghel or vishwarupsingh999@gmail.com
 Pass:o8860824091m
 Git commands:  pull, push, commit, and clone
 First take Pull command before any change in file and then use Commit command to save locally and finally 
@@ -20,9 +20,9 @@ git checkout dev
 +++++++++++++++++++++++++++=
 git add filename    // to add file to local repository
 after changing in file use 
-git add .   // to add cahnges or use
+git add .   // to add changes or use
 git commit -a -m "comments" or 
-git commit -am "comments"
+git commit -am "comments" or
 git checkout  // to  Revert changes
 git commit --amend -m "message"  //command makes it possible to replace the last commit 
 
