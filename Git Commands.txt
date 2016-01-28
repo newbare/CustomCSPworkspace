@@ -1,0 +1,34 @@
+Username:Vishwarup-Singh-Baghel
+Pass:o8860824091m
+Git commands:  pull, push, commit, and clone
+First take Pull command before any change in file and then use Commit command to save locally and finally 
+Push command to update changes in central repogitory at server.
+
+===========================================================================================================
+
+Go to the the cloned folder and then
+git status = to see the current status of branch
+git branch=to see current branch
+git branch dev(branch name) =to create a new branch name
+git checkout dev(b name) =to go to child branch name from master  and take all codes
+
+git status
+git checkout dev
+
+
+
++++++++++++++++++++++++++++=
+git add filename    // to add file to local repository
+after changing in file use 
+git add .   // to add cahnges or use
+git commit -a -m "comments" or 
+git commit -am "comments"
+git checkout  // to  Revert changes
+git commit --amend -m "message"  //command makes it possible to replace the last commit 
+
+git commit -m "comments" // to commit the changes
+git push   // to update the files on remote github repogitory
+before any push command first take pull command like
+git pull // at the repository location
+
+
