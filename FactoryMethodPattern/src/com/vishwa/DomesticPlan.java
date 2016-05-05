@@ -1,0 +1,9 @@
+package com.vishwa;
+
+public class DomesticPlan extends Plan {
+	
+	public void getRate()
+	{
+		rate=3;
+	}
+}
